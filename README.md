@@ -1,4 +1,3 @@
-# Orbit
 <h1>Orbit: Lightweight jQuery Slider</h1>
 <p>Orbit is a jQuery slider developed by ZURB. The plugin is lightweight(4KB), easy to implement and has a good set of features. 
 
